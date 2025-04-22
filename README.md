@@ -15,7 +15,7 @@ Predict diamond's price based on carat.
 ## Installation
 1. Clone the repo
    ```bash
-   git clone https://github.com/<>/my-awesome-project.git
+   git clone https://github.com/rahele-bhr04/manually-simple-linear-regression.git
    
 2. Install dependencies:
    ```bash
