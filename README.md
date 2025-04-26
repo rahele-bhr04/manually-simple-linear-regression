@@ -7,7 +7,7 @@ Predict diamond's price based on carat.
 
 ## Features
 - Get dataset from seaborn
-- Train model 
+- Mini-batch gradient descent for training
 - Elevate model based on cost function
 - Evaluate using R² score
 - Works on test and training sets
